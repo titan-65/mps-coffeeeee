@@ -31,7 +31,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <Meta />
         <Links />
-        <title> Mps coffee shop</title>
+        <title>MPS Coffee - Where Code Meets Coffee</title>
       </head>
       <body>
         {children}
